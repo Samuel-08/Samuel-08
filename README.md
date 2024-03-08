@@ -17,14 +17,6 @@ Berikut adalah beberapa bahasa dan teknologi yang saya gunakan:
 - JavaScript
 - PHP
 - Vue
-
-## Proyek Terbaru
-
-Berikut adalah beberapa proyek terbaru yang saya kerjakan:
-
-1. **[Nama Proyek](link_proyek)** - Deskripsi singkat tentang proyek dan teknologi yang digunakan.
-2. **[Nama Proyek](link_proyek)** - Deskripsi singkat tentang proyek dan teknologi yang digunakan.
-3. **[Nama Proyek](link_proyek)** - Deskripsi singkat tentang proyek dan teknologi yang digunakan.
  
 ## Teman dan Rekan
 
