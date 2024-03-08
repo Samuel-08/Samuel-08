@@ -18,6 +18,8 @@ Berikut adalah beberapa bahasa dan teknologi yang saya gunakan:
 - PHP
 - Vue
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-08&theme=radical)](https://github.com/Samuel-08)
+
 ## Teman dan Rekan
 
 Saya senang berkenalan dengan teman-teman baru dalam komunitas pengembang. Mari kita berhubungan dan bertukar pikiran tentang pengembangan web dan teknologi lainnya. Jangan ragu untuk mengirim pesan kepada saya.
