@@ -1,16 +1,38 @@
-### Hi there 👋
+# Selamat Datang di Profil Saya!
 
-<!--
-**Samuel-08/Samuel-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Halo, saya Samuel Christoper, seorang junior web developer dari Indonesia. Saya senang berbagi kodingan dan pengalaman saya di sini. Jika Anda tertarik dengan proyek-proyek saya atau ingin berkolaborasi, jangan ragu untuk menghubungi saya.
 
-Here are some ideas to get you started:
+## Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Saat ini sedang belajar dan terus mengembangkan keterampilan dalam pengembangan web.
+- 👨‍💻 Saya memiliki latar belakang dalam web programing dasar dengan menggunakan bahasa pemrograman PHP.
+- 💼 Saya sedang mencari kesempatan untuk berkontribusi dalam proyek-proyek menarik dan memperluas jaringan profesional saya.
+  
+## Bahasa dan Teknologi
+
+Berikut adalah beberapa bahasa dan teknologi yang saya gunakan:
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Vue
+
+## Proyek Terbaru
+
+Berikut adalah beberapa proyek terbaru yang saya kerjakan:
+
+1. **[Nama Proyek](link_proyek)** - Deskripsi singkat tentang proyek dan teknologi yang digunakan.
+2. **[Nama Proyek](link_proyek)** - Deskripsi singkat tentang proyek dan teknologi yang digunakan.
+3. **[Nama Proyek](link_proyek)** - Deskripsi singkat tentang proyek dan teknologi yang digunakan.
+ 
+## Teman dan Rekan
+
+Saya senang berkenalan dengan teman-teman baru dalam komunitas pengembang. Mari kita berhubungan dan bertukar pikiran tentang pengembangan web dan teknologi lainnya. Jangan ragu untuk mengirim pesan kepada saya.
+
+Terima kasih sudah berkunjung ke profil saya!
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-08&show_icons=true&theme=ayu-mirage)
+
+
