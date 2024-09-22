@@ -2,6 +2,10 @@
 
 Halo, saya Samuel Christoper, seorang junior web developer dari Indonesia. Saya senang berbagi kodingan dan pengalaman saya di sini. Jika Anda tertarik dengan proyek-proyek saya atau ingin berkolaborasi, jangan ragu untuk menghubungi saya.
 
+
+![](https://komarev.com/ghpvc/?username=Samuel-08&style=for-the-badge)
+
+
 ## Tentang Saya
 
 - 🌱 Saat ini sedang belajar dan terus mengembangkan keterampilan dalam pengembangan web.
