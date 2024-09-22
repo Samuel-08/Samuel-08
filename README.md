@@ -25,7 +25,7 @@ Berikut adalah beberapa bahasa dan teknologi yang saya gunakan:
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-08&theme=holi&layout=donut)](https://github.com/Samuel-08)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages dan Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
