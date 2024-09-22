@@ -51,7 +51,7 @@ Berikut adalah beberapa bahasa dan teknologi yang saya gunakan:
 </a>
     <a href="https://codeigniter.com/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-    alt="codeigniter" width="40" height="40"/>
+    alt="codeigniter" width="44" height="44"/>
 </a>
  <a href="https://laravel.com/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"
