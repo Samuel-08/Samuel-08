@@ -1,33 +1,31 @@
+![](https://komarev.com/ghpvc/?username=Samuel-08&style=for-the-badge)
+
 <h1 align="center">Hai 👋, saya Samuel Christoper</h1>
 
 ## Selamat Datang di Profil Saya!
 
 Halo, saya seorang junior web developer dari Indonesia. Saya senang berbagi kodingan dan pengalaman saya di sini. Jika Anda tertarik dengan proyek-proyek saya atau ingin berkolaborasi, jangan ragu untuk menghubungi saya.
 
-
-![](https://komarev.com/ghpvc/?username=Samuel-08&style=for-the-badge)
-
-
 ## Tentang Saya
 
 - 🌱 Saat ini sedang belajar dan terus mengembangkan keterampilan dalam pengembangan web.
 - 👨‍💻 Saya memiliki latar belakang dalam web programing dasar dengan menggunakan bahasa pemrograman PHP.
 - 💼 Saya sedang mencari kesempatan untuk berkontribusi dalam proyek-proyek menarik dan memperluas jaringan profesional saya.
+ 
+<details>
   
-## Bahasa dan Teknologi
-
-Berikut adalah beberapa bahasa dan teknologi yang saya gunakan:
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Vue
+  <summary align="left"><h2> Bahasa Terpopuler </h2></summary>
+  
+<p> Berikut adalah bahasa yang sering saya gunakan: </p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-08&theme=holi&layout=donut)](https://github.com/Samuel-08)
+ 
+</details>
 
-<h3 align="left">Languages dan Tools:</h3>
-<p align="left">
+<details>
+  <summary align="left"><h2 align="left"> Teknologi </h2></summary>
+<p> Berikut adalah beberapa teknologi yang saya gunakan: </p> 
+  <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -91,3 +89,4 @@ Berikut adalah beberapa bahasa dan teknologi yang saya gunakan:
   <img src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"
     alt="axios" width="70" height="40" />
 </a>
+</details>
